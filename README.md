@@ -12,7 +12,7 @@ Checa Lasanha é uma ferramenta intuitiva e eficiente projetada para automatizar
 # Editor.md
 
 ![](https://i.imgur.com/TWMNGBp.png)
-![](https://img.shields.io/github/stars/pedro287ha/ChecaLasanha) ![]]
+![](https://img.shields.io/github/stars/pedro287ha/ChecaLasanha)]
 ![](https://img.shields.io/badge/Version-0.0.1-blue)
 
 
