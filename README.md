@@ -9,10 +9,9 @@ Checa Lasanha é uma ferramenta intuitiva e eficiente projetada para automatizar
 - Atualiza valores a cada 30 minutos por padŕão
 - Notificações imediatas na **api** do **Telegram**
 
-# Editor.md
-
 ![](https://i.imgur.com/TWMNGBp.png)
-![](https://img.shields.io/github/stars/pedro287ha/ChecaLasanha)]
+<br>
+![](https://img.shields.io/github/stars/pedro287ha/ChecaLasanha)
 ![](https://img.shields.io/badge/Version-0.0.1-blue)
 
 
